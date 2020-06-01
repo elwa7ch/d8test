@@ -4,4 +4,4 @@
 #
 set -e
 
-echo "Hello world!"
+echo "Hello world!!"
